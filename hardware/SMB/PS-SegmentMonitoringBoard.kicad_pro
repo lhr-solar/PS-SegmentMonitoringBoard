@@ -529,7 +529,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -737,7 +737,7 @@
         "uuid": "f5c3f134-fd91-4d3b-aae6-719b554b2d69"
       }
     ],
-    "used_designators": "R1-99,R105-127,IC1-3,J1-8,J11,D1-10,T1-2,#PWR1-21,#PWR26-29,#PWR31-32,#PWR37-39,#PWR69-84,#PWR101-116,TP1-9,TP11-26,F1-19,C1-66,C81-100,C103-142,U1,U4-5,U7-17,SW5,Q1-2,TP_3.3V1,L1-2,TR1-3,NT1-2,LOGO1",
+    "used_designators": "J1-8,J11,IC1-3,R1-99,R105-127,T1-2,#PWR1-21,#PWR26-29,#PWR31-32,#PWR37-39,#PWR69-84,#PWR101-116,D1-10,F1-19,TP1-9,TP11-26,C1-66,C81-100,C103-142,U1,U4-5,U7-17,SW5,Q1-2,TP_3.3V1,L1-2,TR1-3,NT1-2,LOGO1",
     "variants": []
   },
   "sheets": [
