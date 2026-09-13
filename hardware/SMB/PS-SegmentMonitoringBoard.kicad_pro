@@ -650,7 +650,8 @@
         "CB2",
         "CB1",
         "CB0",
-        "extraCells"
+        "extraCells",
+        "CB8"
       ],
       "CELL_VOLTAGES": [
         "VC7",
@@ -660,7 +661,8 @@
         "VC3",
         "VC2",
         "VC1",
-        "VC0"
+        "VC0",
+        "VC8"
       ],
       "NTCS": [
         "NTC[7..0]"
@@ -690,7 +692,8 @@
         "V3",
         "V2",
         "V1",
-        "V0"
+        "V0",
+        "V8"
       ],
       "V_TAPS": [
         "V+_[0..7]",
