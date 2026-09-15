@@ -14996,7 +14996,7 @@
 				)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "22n"
 			(at 71.628 76.708 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15029,6 +15029,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 68.58 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R9BB223"
 			(at 68.58 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -15111,28 +15122,6 @@
 			)
 		)
 		(property "Description" "Graph footprint placeholder"
-			(at 265.43 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PN" ""
-			(at 265.43 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "p/n" ""
 			(at 265.43 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -15250,7 +15239,7 @@
 				)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 62.992 76.708 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15283,6 +15272,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 60.96 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "GRM21BR61H106KE43L"
 			(at 60.96 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -15642,7 +15642,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "4.7u"
 			(at 80.518 76.708 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15675,6 +15675,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 77.47 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "06035C472K4T2A"
 			(at 77.47 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -16151,8 +16162,8 @@
 				)
 			)
 		)
-		(property "Height" "1.2"
-			(at 175.26 413.97 0)
+		(property "P/N" "BQ79616PAPR"
+			(at 123.19 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16160,55 +16171,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "595-BQ79616PAPR"
-			(at 175.26 513.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ79616PAPR?qs=1Kr7Jg1SGW8FUVDCFv5r0A%3D%3D"
-			(at 175.26 613.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Texas Instruments"
-			(at 175.26 713.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "BQ79616PAPR"
-			(at 175.26 813.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
 			)
 		)
 		(pin "16"
@@ -16592,7 +16554,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 89.408 76.708 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16625,6 +16587,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 86.36 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CL10B104KB8NNNC"
 			(at 86.36 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -16705,6 +16678,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 93.98 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R7BB225"
 			(at 93.98 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -17064,7 +17048,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "0.1u"
 			(at 116.586 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17098,6 +17082,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 113.03 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CL10B104KB8NNNC"
+			(at 113.03 39.37 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17546,7 +17541,7 @@
 				)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 55.372 76.708 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17579,6 +17574,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 53.34 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R9BB105"
 			(at 53.34 74.93 0)
 			(hide yes)
 			(show_name no)

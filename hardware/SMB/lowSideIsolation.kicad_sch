@@ -5581,6 +5581,17 @@
 				)
 			)
 		)
+		(property "P/N" "744242471"
+			(at 185.42 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "6247bc60-f157-463b-b544-2d26338e6582")
 		)
@@ -5623,7 +5634,7 @@
 				)
 			)
 		)
-		(property "Value" "100pF"
+		(property "Value" "100p"
 			(at 176.53 121.92 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5657,6 +5668,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 172.72 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "KGM15AR71C101KT"
+			(at 172.72 120.65 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5704,7 +5726,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220pF"
+		(property "Value" "220p"
 			(at 173.228 98.044 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5739,6 +5761,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 173.99 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603JRNPO9BN221"
+			(at 173.99 96.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5785,7 +5818,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220pF"
+		(property "Value" "220p"
 			(at 173.228 89.916 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5820,6 +5853,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 173.99 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603JRNPO9BN221"
+			(at 173.99 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5909,6 +5953,17 @@
 				)
 			)
 		)
+		(property "P/N" "RC0603FR-0749R9L"
+			(at 109.22 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e002ae75-7810-4c85-9931-14dd3a4d991c")
 		)
@@ -5947,7 +6002,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220pF"
+		(property "Value" "220p"
 			(at 97.79 116.8462 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5981,6 +6036,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 95.25 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603JRNPO9BN221"
 			(at 95.25 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -6062,6 +6128,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 109.22 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "RC0603FR-0749R9L"
+			(at 109.22 93.98 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6153,6 +6230,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1001T5E"
+			(at 85.09 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "76effaf4-6e37-4299-9697-f4c75d721c1e")
 		)
@@ -6233,6 +6321,17 @@
 				)
 			)
 		)
+		(property "P/N" "HMU1228NL"
+			(at 184.15 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "2658ef35-c864-4c62-9b9e-203666da2c4a")
 		)
@@ -6283,7 +6382,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220pF"
+		(property "Value" "220p"
 			(at 97.79 99.0662 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6317,6 +6416,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 95.25 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603JRNPO9BN221"
 			(at 95.25 97.79 0)
 			(hide yes)
 			(show_name no)

@@ -9040,6 +9040,17 @@
 				)
 			)
 		)
+		(property "P/N" "ERJ-1TRQF6R2U"
+			(at 95.25 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "116f3fb8-5309-41c0-b501-a41ccbc6ae13")
 		)
@@ -9077,7 +9088,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.47uF"
+		(property "Value" "0.47u"
 			(at 110.49 42.164 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9111,6 +9122,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 110.49 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R7BB474"
 			(at 110.49 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9158,7 +9180,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.47uF"
+		(property "Value" "0.47u"
 			(at 110.49 72.644 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9192,6 +9214,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 110.49 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R7BB474"
 			(at 110.49 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -9282,6 +9315,17 @@
 				)
 			)
 		)
+		(property "P/N" "ERJ-1TRQF6R2U"
+			(at 95.25 63.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "99ecc33c-d4a8-4f8e-a94a-53772b9b9c09")
 		)
@@ -9362,6 +9406,17 @@
 				)
 			)
 		)
+		(property "P/N" "ERJ-1TRQF6R2U"
+			(at 95.25 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3a7ddb79-1b5f-4784-b787-dc6f49c8fb08")
 		)
@@ -9399,7 +9454,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.47uF"
+		(property "Value" "0.47u"
 			(at 110.49 67.564 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9433,6 +9488,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 110.49 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R7BB474"
 			(at 110.49 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -9523,6 +9589,17 @@
 				)
 			)
 		)
+		(property "P/N" "ERJ-1TRQF6R2U"
+			(at 95.25 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2629c7d6-a196-4f36-8ec9-7ff894e9c6df")
 		)
@@ -9560,7 +9637,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.47uF"
+		(property "Value" "0.47u"
 			(at 110.49 47.244 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9594,6 +9671,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 110.49 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R7BB474"
 			(at 110.49 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -9684,6 +9772,17 @@
 				)
 			)
 		)
+		(property "P/N" "ERJ-1TRQF6R2U"
+			(at 95.25 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b33894db-5ec1-4711-b091-3db40b3e3ef1")
 		)
@@ -9721,7 +9820,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.47uF"
+		(property "Value" "0.47u"
 			(at 110.49 32.004 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9755,6 +9854,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 110.49 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R7BB474"
 			(at 110.49 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -9845,6 +9955,17 @@
 				)
 			)
 		)
+		(property "P/N" "ERJ-1TRQF6R2U"
+			(at 95.25 73.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "abdab8a3-e415-4021-a4a8-96e21b007b3c")
 		)
@@ -9882,7 +10003,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.47uF"
+		(property "Value" "0.47u"
 			(at 110.49 37.084 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9916,6 +10037,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 110.49 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R7BB474"
 			(at 110.49 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -9963,7 +10095,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.47uF"
+		(property "Value" "0.47u"
 			(at 110.49 52.324 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9997,6 +10129,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 110.49 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R7BB474"
 			(at 110.49 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -10087,6 +10230,17 @@
 				)
 			)
 		)
+		(property "P/N" "ERJ-1TRQF6R2U"
+			(at 95.25 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "642faf3c-0e90-42de-8e5b-38c15d4606e9")
 		)
@@ -10124,7 +10278,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.47uF"
+		(property "Value" "0.47u"
 			(at 110.49 57.404 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10158,6 +10312,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 110.49 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R7BB474"
 			(at 110.49 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -10248,6 +10413,17 @@
 				)
 			)
 		)
+		(property "P/N" "ERJ-1TRQF6R2U"
+			(at 95.25 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c705f9a2-b5b9-4d33-b2ef-220fde494a85")
 		)
@@ -10328,6 +10504,17 @@
 				)
 			)
 		)
+		(property "P/N" "ERJ-1TRQF6R2U"
+			(at 95.25 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e608da30-90dd-46b0-abe1-bc319a9c960b")
 		)
@@ -10365,7 +10552,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.47uF"
+		(property "Value" "0.47u"
 			(at 110.49 62.484 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10399,6 +10586,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 110.49 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R7BB474"
 			(at 110.49 60.96 0)
 			(hide yes)
 			(show_name no)

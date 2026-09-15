@@ -2919,6 +2919,17 @@
 				)
 			)
 		)
+		(property "P/N" "RC0603FR-07200RL"
+			(at 109.22 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a04ebd4b-779e-4c8d-b722-5b42f08e5c00")
 		)
@@ -3002,8 +3013,8 @@
 				)
 			)
 		)
-		(property "Height" "2.52"
-			(at 546.05 109.22 0)
+		(property "P/N" "ZXTN4004KTC"
+			(at 144.78 95.25 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3011,55 +3022,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "621-ZXTN4004KTC"
-			(at 646.05 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/ZXTN4004KTC?qs=aXnpsjvrXd1NjskJTVsVYA%3D%3D"
-			(at 746.05 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Diodes Incorporated"
-			(at 846.05 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "ZXTN4004KTC"
-			(at 946.05 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
 			)
 		)
 		(pin "3"
@@ -3102,7 +3064,7 @@
 				)
 			)
 		)
-		(property "Value" "0.22uF"
+		(property "Value" "0.22u"
 			(at 130.556 113.538 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3135,6 +3097,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 127 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603KRX7R9BB224"
 			(at 127 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -3225,6 +3198,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1000T5E"
+			(at 119.38 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "482b0921-aa25-497c-b76e-69148709106a")
 		)
@@ -3262,7 +3246,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "0.1u"
 			(at 166.878 113.538 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3295,6 +3279,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 163.83 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CL10B104KB8NNNC"
 			(at 163.83 111.76 0)
 			(hide yes)
 			(show_name no)

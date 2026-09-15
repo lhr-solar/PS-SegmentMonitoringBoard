@@ -8334,6 +8334,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1003T5E"
+			(at 119.38 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "062ad6f4-06fb-403e-b7fb-9cbbe50141fe")
 		)
@@ -8413,6 +8424,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1001T5E"
+			(at 74.93 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "15611ba2-a840-4fc1-883d-05074f97130b")
 		)
@@ -8450,7 +8472,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 67.564 138.176 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8484,6 +8506,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 67.31 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "GRM21BR61H106KE43L"
 			(at 67.31 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -8573,6 +8606,17 @@
 				)
 			)
 		)
+		(property "P/N" "CRCW060315K0FKEA"
+			(at 88.9 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "df0d8d01-1dcf-4a67-b5ce-f5716e6779cd")
 		)
@@ -8610,7 +8654,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 67.564 81.026 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8644,6 +8688,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 67.31 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "GRM21BR61H106KE43L"
 			(at 67.31 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -8733,6 +8788,17 @@
 				)
 			)
 		)
+		(property "P/N" "RC0603FR-133K6L"
+			(at 96.52 134.62 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "29a7df31-6aac-4f2e-ba70-6dc82038c149")
 		)
@@ -8803,6 +8869,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 127 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1002T5E"
+			(at 127 100.33 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8891,6 +8968,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1002T5E"
+			(at 127 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "08c41b14-6d14-4f0c-a31e-40e102cfcb63")
 		)
@@ -8928,7 +9016,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 67.564 58.166 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8962,6 +9050,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 67.31 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "GRM21BR61H106KE43L"
 			(at 67.31 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -9051,6 +9150,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1003T5E"
+			(at 119.38 59.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3c82961c-fe2e-4e72-81ac-9cdf90de42fb")
 		)
@@ -9121,6 +9231,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 127 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1002T5E"
+			(at 127 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9209,6 +9330,17 @@
 				)
 			)
 		)
+		(property "P/N" "RC0603FR-133K6L"
+			(at 96.52 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a537b25d-8196-4699-be2b-89835d501cd6")
 		)
@@ -9279,6 +9411,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 119.38 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1003T5E"
+			(at 119.38 93.98 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9367,6 +9510,17 @@
 				)
 			)
 		)
+		(property "P/N" "CRCW060315K0FKEA"
+			(at 88.9 59.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0663a889-b9de-45e8-bcf9-0fafbc1a8d2d")
 		)
@@ -9437,6 +9591,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 74.93 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1001T5E"
+			(at 74.93 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9525,6 +9690,17 @@
 				)
 			)
 		)
+		(property "P/N" "RC0603FR-133K6L"
+			(at 96.52 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eaa1b089-aaad-42fd-beb9-dd6181cb92e3")
 		)
@@ -9595,6 +9771,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 88.9 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CRCW060315K0FKEA"
+			(at 88.9 93.98 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9683,6 +9870,17 @@
 				)
 			)
 		)
+		(property "P/N" "RC0603FR-133K6L"
+			(at 96.52 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a04b745f-586f-496f-ba1e-9988b067b2c8")
 		)
@@ -9753,6 +9951,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 127 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1002T5E"
+			(at 127 134.62 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9841,6 +10050,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1001T5E"
+			(at 74.93 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "846d17eb-1c86-42b4-8f27-89bf838c2c46")
 		)
@@ -9911,6 +10131,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 127 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1002T5E"
+			(at 127 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9999,6 +10230,17 @@
 				)
 			)
 		)
+		(property "P/N" "CRCW060315K0FKEA"
+			(at 88.9 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dc3fc71e-6b97-4f3a-a81f-939cf7fc38cb")
 		)
@@ -10036,7 +10278,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 67.564 103.886 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10070,6 +10312,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 67.31 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "GRM21BR61H106KE43L"
 			(at 67.31 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -10116,7 +10369,7 @@
 				)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 69.342 36.068 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10149,6 +10402,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 67.31 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "GRM21BR61H106KE43L"
 			(at 67.31 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -10238,6 +10502,17 @@
 				)
 			)
 		)
+		(property "P/N" "CRCW060315K0FKEA"
+			(at 88.9 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ba179053-5954-43a4-9ab2-054998d64174")
 		)
@@ -10308,6 +10583,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 127 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1002T5E"
+			(at 127 88.9 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10396,6 +10682,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1002T5E"
+			(at 127 123.19 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "624f58b4-6f53-45f7-b400-5e9c1a0ed2bd")
 		)
@@ -10466,6 +10763,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 96.52 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "RC0603FR-133K6L"
+			(at 96.52 123.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10554,6 +10862,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1003T5E"
+			(at 119.38 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "161f0768-40b1-4702-9088-5435599b50b7")
 		)
@@ -10633,6 +10952,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1003T5E"
+			(at 119.38 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1c68d947-f373-4973-a120-232dc8704988")
 		)
@@ -10670,7 +11000,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 67.564 126.746 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10704,6 +11034,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 67.31 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "GRM21BR61H106KE43L"
 			(at 67.31 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -10793,6 +11134,17 @@
 				)
 			)
 		)
+		(property "P/N" "RC0603FR-133K6L"
+			(at 96.52 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a3423f56-1741-4c00-bbda-60376369eabe")
 		)
@@ -10863,6 +11215,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 74.93 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1001T5E"
+			(at 74.93 125.73 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10951,6 +11314,17 @@
 				)
 			)
 		)
+		(property "P/N" "CRCW060315K0FKEA"
+			(at 88.9 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9dc758df-d206-4fcd-8301-5beb31b81c7e")
 		)
@@ -11021,6 +11395,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 74.93 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1001T5E"
+			(at 74.93 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11109,6 +11494,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1001T5E"
+			(at 74.93 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3561dada-a5f3-4651-91c2-1f6959a271ff")
 		)
@@ -11179,6 +11575,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 119.38 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1003T5E"
+			(at 119.38 82.55 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11267,6 +11674,17 @@
 				)
 			)
 		)
+		(property "P/N" "CRCW060315K0FKEA"
+			(at 88.9 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "99aa0ad1-0ccc-41af-aba3-a81e5cb60d01")
 		)
@@ -11304,7 +11722,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 67.564 69.596 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11338,6 +11756,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 67.31 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "GRM21BR61H106KE43L"
 			(at 67.31 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -11385,7 +11814,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 67.564 115.316 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11419,6 +11848,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 67.31 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "GRM21BR61H106KE43L"
 			(at 67.31 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -11508,6 +11948,17 @@
 				)
 			)
 		)
+		(property "P/N" "CRCW060315K0FKEA"
+			(at 88.9 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5fe7c22c-0052-45aa-80ac-d7b7998c26ba")
 		)
@@ -11587,6 +12038,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1002T5E"
+			(at 127 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fa11d136-78ec-4f2e-859a-b1368364dc0c")
 		)
@@ -11624,7 +12086,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 67.564 92.456 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11658,6 +12120,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 67.31 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "GRM21BR61H106KE43L"
 			(at 67.31 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -11747,6 +12220,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1001T5E"
+			(at 74.93 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cb6e9b63-9b3b-49d1-a8ac-443538ff027c")
 		)
@@ -11817,6 +12301,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 74.93 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1001T5E"
+			(at 74.93 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11905,6 +12400,17 @@
 				)
 			)
 		)
+		(property "P/N" "RC0603FR-133K6L"
+			(at 96.52 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2eeb765e-9a71-4466-8abb-90bfc8db969f")
 		)
@@ -11975,6 +12481,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 96.52 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "RC0603FR-133K6L"
+			(at 96.52 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12063,6 +12580,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1003T5E"
+			(at 119.38 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7e830c12-0709-48a1-90c8-d1277ee960f0")
 		)
@@ -12133,6 +12661,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 119.38 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "0603WAF1003T5E"
+			(at 119.38 139.7 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

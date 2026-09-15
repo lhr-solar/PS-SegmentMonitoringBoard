@@ -5581,6 +5581,17 @@
 				)
 			)
 		)
+		(property "P/N" "744242471"
+			(at 186.69 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "64167144-9ebd-4d9f-bba2-908354b92603")
 		)
@@ -5667,6 +5678,17 @@
 				)
 			)
 		)
+		(property "P/N" "HMU1228NL"
+			(at 185.42 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "fb80fde9-4940-43aa-b341-8759ab764fa0")
 		)
@@ -5716,7 +5738,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220pF"
+		(property "Value" "220p"
 			(at 174.498 89.916 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5751,6 +5773,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 175.26 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603JRNPO9BN221"
+			(at 175.26 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5798,7 +5831,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220pF"
+		(property "Value" "220p"
 			(at 99.06 116.8462 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5832,6 +5865,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 96.52 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603JRNPO9BN221"
 			(at 96.52 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -5880,7 +5924,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220pF"
+		(property "Value" "220p"
 			(at 99.06 99.0662 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5914,6 +5958,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 96.52 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603JRNPO9BN221"
 			(at 96.52 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -6004,6 +6059,17 @@
 				)
 			)
 		)
+		(property "P/N" "RC0603FR-0749R9L"
+			(at 110.49 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b1b5b080-0a93-4db8-9fa1-da96d3ddc567")
 		)
@@ -6042,7 +6108,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220pF"
+		(property "Value" "220p"
 			(at 174.498 98.044 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6077,6 +6143,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 175.26 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603JRNPO9BN221"
+			(at 175.26 96.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6168,6 +6245,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF1001T5E"
+			(at 86.36 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ab4e6c00-2fc1-4b44-b5ec-63dc53f37a3e")
 		)
@@ -6204,7 +6292,7 @@
 				)
 			)
 		)
-		(property "Value" "100pF"
+		(property "Value" "100p"
 			(at 177.8 121.92 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6238,6 +6326,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 173.99 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "KGM15AR71C101KT"
+			(at 173.99 120.65 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6318,6 +6417,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 110.49 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "RC0603FR-0749R9L"
+			(at 110.49 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
