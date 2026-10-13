@@ -55,6 +55,10 @@ static void bq_status_init(void){
     led_config.Pin = BQ_FAULT_PIN;
     gpio_clock_enable((uint32_t)BQ_FAULT_PORT);
     HAL_GPIO_Init(BQ_FAULT_PORT, &led_config);
+
+    led_config.Pin = GPIO_PIN_0;
+    gpio_clock_enable((uint32_t)GPIOB);
+    HAL_GPIO_Init(GPIOB, &led_config);
 }
 
 static void volttemp_id_leds_init(void){

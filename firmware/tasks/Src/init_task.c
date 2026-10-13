@@ -36,6 +36,11 @@ void task_Init(){
   // Init CAN
   canbus_init();
 
+  HAL_GPIO_WritePin(GPIOB, GPIO_PIN_0, GPIO_PIN_SET);
+  vTaskDelay(pdMS_TO_TICKS(100));
+  HAL_GPIO_WritePin(GPIOB, GPIO_PIN_0, GPIO_PIN_RESET);
+  vTaskDelay(pdMS_TO_TICKS(100));
+
   xTaskCreateStatic(task_ReadVoltage,
                   "Voltage Monitor Task",
                   voltageMonitorStackSize,

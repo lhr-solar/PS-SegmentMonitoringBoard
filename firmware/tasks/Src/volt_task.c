@@ -150,7 +150,14 @@ void task_ReadVoltage(void *pvParameters)
             voltageMsg.BPS_VoltTemp_BQ_Fault = (cellReadStatus == BQ_OK) ? 0 : 1;
 
             // send the max 16 bit number if BQ fault
-            voltageMsg.BPS_Voltage_Tap_Data = (cellReadStatus == BQ_OK) ? cell_readings[i] : (INVALID_VOLTAGE);
+            voltageMsg.BPS_Voltage_Tap_Data = cell_readings[i];
+
+            if (!(cellReadStatus == BQ_OK)) {
+              HAL_GPIO_WritePin(GPIOB, GPIO_PIN_0, GPIO_PIN_SET);
+              vTaskDelay(pdMS_TO_TICKS(50));
+              HAL_GPIO_WritePin(GPIOB, GPIO_PIN_0, GPIO_PIN_RESET);
+              vTaskDelay(pdMS_TO_TICKS(50));
+            }
 
             // pack the voltageMsg struct into bytes to send over CAN
             packVoltageMessage(voltageMsg, voltageMsgData);
