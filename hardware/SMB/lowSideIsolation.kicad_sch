@@ -5367,17 +5367,7 @@
 		)
 		(uuid "0234b679-8d5a-4e15-af67-f141809da806")
 	)
-	(label "preIsolationCOMHP"
-		(at 165.1 125.73 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4fa1bf7c-1817-48cc-ad9d-c84431c52c75")
-	)
-	(label "preIsolationCOMHN"
+	(label "preIsolationCOMLP"
 		(at 165.1 115.57 180)
 		(effects
 			(font
@@ -5385,7 +5375,17 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "8b9f4876-d67a-4880-b535-ce21a8bacd48")
+		(uuid "08526457-495d-43cc-82bd-c2bacdd06dc1")
+	)
+	(label "preIsolationCOMLN"
+		(at 165.1 125.73 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0c2dce1f-7278-4645-94a5-5f66659adbc1")
 	)
 	(label "preIsolationCOMHP"
 		(at 165.1 91.44 180)
@@ -5397,7 +5397,7 @@
 		)
 		(uuid "8e20f8ad-881f-4eda-a60e-0c6854e2b751")
 	)
-	(label "preIsolationCOMHN"
+	(label "preIsolationCOMLN"
 		(at 118.11 111.76 0)
 		(effects
 			(font
@@ -5407,7 +5407,7 @@
 		)
 		(uuid "bea1d3da-1071-4fa2-9e2f-65f6f24cb5e4")
 	)
-	(label "preIsolationCOMHP"
+	(label "preIsolationCOMLP"
 		(at 118.11 93.98 0)
 		(effects
 			(font
@@ -5450,17 +5450,6 @@
 		)
 		(uuid "270df6f9-179b-4eb6-ac67-6e590442151f")
 	)
-	(hierarchical_label "isolatedCOMLN"
-		(shape bidirectional)
-		(at 196.85 115.57 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "57c45b0e-8cd4-44ba-8359-2340f26b4153")
-	)
 	(hierarchical_label "CVSS"
 		(shape bidirectional)
 		(at 95.25 100.33 270)
@@ -5474,14 +5463,14 @@
 	)
 	(hierarchical_label "isolatedCOMLP"
 		(shape bidirectional)
-		(at 196.85 125.73 0)
+		(at 196.85 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "80c39665-12c9-4a27-8b29-12b3673dca04")
+		(uuid "8bc82643-9eb8-4d55-9e13-275d70cfd41c")
 	)
 	(hierarchical_label "isolatedCOMLN"
 		(shape bidirectional)
@@ -5493,6 +5482,17 @@
 			(justify left)
 		)
 		(uuid "a2956590-e217-49ce-813b-bac3eba0d7f7")
+	)
+	(hierarchical_label "isolatedCOMLN"
+		(shape bidirectional)
+		(at 196.85 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b718e719-1622-4135-ac72-e41730b653d5")
 	)
 	(hierarchical_label "CVSS"
 		(shape bidirectional)
@@ -5523,7 +5523,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -5711,7 +5711,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "591b84cd-60b1-4f0c-a2d1-1e746c7947a3")
@@ -5803,7 +5803,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "64ac6db2-8e37-40c8-ba1b-c34dc962f9e5")

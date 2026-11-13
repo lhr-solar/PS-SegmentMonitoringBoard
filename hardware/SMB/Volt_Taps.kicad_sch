@@ -316,6 +316,12 @@
 		(uuid "44d97765-8d47-44c2-8e05-b5ba13465d95")
 	)
 	(junction
+		(at 49.53 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71c4c49f-c394-4f6f-bd4a-87c16c0db8af")
+	)
+	(junction
 		(at 69.85 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -673,6 +679,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 85.09) (xy 53.34 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "378fbd4f-6b0b-447c-8488-95b83df14e38")
+	)
+	(wire
+		(pts
 			(xy 49.53 25.4) (xy 49.53 44.45)
 		)
 		(stroke
@@ -783,6 +799,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 85.09) (xy 49.53 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8839aa14-670c-4020-b47b-26be97ce5923")
+	)
+	(wire
+		(pts
 			(xy 69.85 85.09) (xy 85.09 85.09)
 		)
 		(stroke
@@ -803,7 +829,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 85.09) (xy 53.34 85.09)
+			(xy 44.45 85.09) (xy 49.53 85.09)
 		)
 		(stroke
 			(width 0)
@@ -5491,6 +5517,17 @@
 			(justify left bottom)
 		)
 		(uuid "f162a1ec-798f-4625-bcac-bf0923025d53")
+	)
+	(hierarchical_label "AVSS"
+		(shape bidirectional)
+		(at 49.53 90.17 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "19122f4d-47e8-4f9b-9ca0-1f9e04d6daed")
 	)
 	(hierarchical_label "AVSS"
 		(shape bidirectional)
