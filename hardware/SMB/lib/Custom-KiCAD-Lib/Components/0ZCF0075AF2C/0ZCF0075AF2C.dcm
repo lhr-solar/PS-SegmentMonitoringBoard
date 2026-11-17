@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0ZCF0075AF2C
+D PTC Resettable Fuse 0.75A(hold) 1.5A(trip) 60VDC 100A 1.5W 0.3s 0.18Ohm SMD Solder Pad 2920 T/R Automotive
+K
+F https://belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zcf-series.pdf
+$ENDCMP
+#
+#End Doc Library

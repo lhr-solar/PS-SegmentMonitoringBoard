@@ -305,7 +305,7 @@
 	)
 	(rectangle
 		(start 181.356 42.418)
-		(end 282.956 116.84)
+		(end 282.956 118.11)
 		(stroke
 			(width 0)
 			(type default)
@@ -327,7 +327,7 @@
 		)
 		(uuid "f7d89ebf-30fd-48ec-b57f-8d6d5101947a")
 	)
-	(text "VCELL = 4.2V (max cell voltage) | RDSON = 1.45 ohm (min) to 4.6 ohm (max)\nSizing eq: RCB = 0.5 * (VCELL/ICB - RDSON)\nPower eq: P = ICB^2 * RCB\n\n--- 200mA TARGET ---\nSize (RDSON=4.6 max):\nRCB = 0.5 * (4.2/0.200 - 4.6)\nRCB = 0.5 * (21.0 - 4.6)\nRCB = 0.5 * 16.4\nRCB = 8.2 ohm --> USE 8.2 ohm (E24 std, exact match)\nPower @ RDSON=1.45 (worst case, min RDSON = max current = max power):\nICB = 4.2 / (2*8.2 + 1.45)\nICB = 4.2 / (16.4 + 1.45)\nICB = 4.2 / 17.85\nICB = 0.2353 A = 235.3 mA\nP = (0.2353)^2 * 8.2\nP = 0.05537 * 8.2\nP = 0.454 W\nRESULT: RCB = 8.2 ohm | P = 0.454 W | Min rated power (60% derate) = 0.454/0.6 = 0.757 W\n\n--- 240mA TARGET ---\nSize (RDSON=4.6 max):\nRCB = 0.5 * (4.2/0.240 - 4.6)\nRCB = 0.5 * (17.5 - 4.6)\nRCB = 0.5 * 12.9\nRCB = 6.45 ohm --> USE 6.2 ohm (E24 std, nearest)\nPower @ RDSON=1.45 (worst case):\nICB = 4.2 / (2*6.2 + 1.45)\nICB = 4.2 / (12.4 + 1.45)\nICB = 4.2 / 13.85\nICB = 0.3033 A = 303.3 mA\nP = (0.3033)^2 * 6.2\nP = 0.09196 * 6.2\nP = 0.570 W\nRESULT: RCB = 6.2 ohm | P = 0.570 W | Min rated power (60% derate) = 0.570/0.6 = 0.950 W"
+	(text "VCELL = 4.2V (max cell voltage) | RDSON = 1.45 ohm (min) to 4.6 ohm (max)\nSizing eq: RCB = 0.5 * (VCELL/ICB - RDSON)\nPower eq: P = ICB^2 * RCB\n\n--- 200mA TARGET ---\nSize (RDSON=4.6 max):\nRCB = 0.5 * (4.2/0.200 - 4.6)\nRCB = 0.5 * (21.0 - 4.6)\nRCB = 0.5 * 16.4\nRCB = 8.2 ohm --> USE 8.2 ohm (E24 std, exact match)\nPower @ RDSON=1.45 (worst case, min RDSON = max current = max power):\nICB = 4.2 / (2*8.2 + 1.45)\nICB = 4.2 / (16.4 + 1.45)\nICB = 4.2 / 17.85\nICB = 0.2353 A = 235.3 mA\nP = (0.2353)^2 * 8.2\nP = 0.05537 * 8.2\nP = 0.454 W\nRESULT: RCB = 8.2 ohm | P = 0.454 W | Min rated power (60% derate) = 0.454/0.6 = 0.757 W\n\n--- 240mA TARGET ---\nSize (RDSON=4.6 max):\nRCB = 0.5 * (4.2/0.240 - 4.6)\nRCB = 0.5 * (17.5 - 4.6)\nRCB = 0.5 * 12.9\nRCB = 6.45 ohm --> USE 6.2 ohm (E24 std, nearest)\nPower @ RDSON=1.45 (worst case):\nICB = 4.2 / (2*6.2 + 1.45)\nICB = 4.2 / (12.4 + 1.45)\nICB = 4.2 / 13.85\nICB = 0.3033 A = 303.3 mA\nP = (0.3033)^2 * 6.2\nP = 0.09196 * 6.2\nP = 0.570 W\nRESULT:\nRCB = 6.2 ohm | P = 0.570 W\nMin rated power (60% derate) = 0.570/0.6 = 0.950 W"
 		(exclude_from_sim no)
 		(at 182.372 79.756 0)
 		(effects
